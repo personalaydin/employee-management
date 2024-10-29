@@ -1,0 +1,18 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "simple employee management",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "build": "echo 'Build step'"
+  },
+  "dependencies": {
+    "lit": "^2.5.0"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
